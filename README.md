@@ -1,4 +1,4 @@
-# T.J. Harrow-Lyle
+# Tyler J. Harrow-Lyle
 ### Freshwater Ecology | Environmental Modelling | Computational Science
 
 I am a freshwater ecologist working around the intersection of aquatic ecosystem science, environmental modelling, and computational research. My work focuses on understanding the physical, chemical, and biological processes that influence freshwater ecosystems, and developing quantitative approaches to investigate environmental variability, ecosystem dynamics, and ecological responses.
