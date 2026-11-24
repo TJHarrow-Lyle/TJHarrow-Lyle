@@ -7,51 +7,51 @@ My research integrates field observations, environmental monitoring, statistical
 
 ## Research Interests
 
-Freshwater and Aquatic Ecology: Ecosystem processes, biological communities, ecological monitoring, biodiversity, and environmental change across inland waters and Great Lakes ecosystems.
+-Freshwater and Aquatic Ecology: Ecosystem processes, biological communities, ecological monitoring, biodiversity, and environmental change across inland waters and Great Lakes ecosystems.
 
-Streams, Rivers, and Wetland Ecology: Aquatic ecosystem assessment, watershed processes, hydrological connectivity, wetland condition, and interactions between terrestrial and aquatic environments.
+-Streams, Rivers, and Wetland Ecology: Aquatic ecosystem assessment, watershed processes, hydrological connectivity, wetland condition, and interactions between terrestrial and aquatic environments.
 
-Great Lakes and Nearshore Ecology: Lake processes, tributary–lake interactions, shoreline exposure, wave energy, physical forcing, and ecological responses in large freshwater systems.
+-Great Lakes and Nearshore Ecology: Lake processes, tributary–lake interactions, shoreline exposure, wave energy, physical forcing, and ecological responses in large freshwater systems.
 
-Environmental and Physical Modelling: Hydrodynamics, wave energy, shoreline exposure, environmental drivers, and physical processes influencing aquatic ecosystems.
+-Environmental and Physical Modelling: Hydrodynamics, wave energy, shoreline exposure, environmental drivers, and physical processes influencing aquatic ecosystems.
 
-Watershed and Nutrient Dynamics: Phosphorus transport, nutrient mobilization and fate, watershed–lake connectivity, nutrient bioavailability, and ecological responses.
+-Watershed and Nutrient Dynamics: Phosphorus transport, nutrient mobilization and fate, watershed–lake connectivity, nutrient bioavailability, and ecological responses.
 
-Climate and Environmental Change: Climate model evaluation, statistical correction, environmental forcing, and climate-related variability across the land–water continuum.
+-Climate and Environmental Change: Climate model evaluation, statistical correction, environmental forcing, and climate related variability across the land to lake continuum.
 
-Computational Ecology and Machine Learning: Predictive modelling, ensemble learning, computer vision, deep learning, and automated ecological analysis.
+-Computational Ecology and Machine Learning: Predictive modelling, ensemble learning, computer vision, deep learning, and automated ecological analysis.
 
-Ecological Monitoring and Computer Vision: Automated image analysis, biological detection, ecological classification, and quantitative assessment of aquatic communities.
+-Ecological Monitoring and Computer Vision: Automated image analysis, biological detection, ecological classification, and quantitative assessment of aquatic communities.
 
 ## Research and Computational Methods
 
 My work combines ecological understanding and environmental observations with quantitative and computational approaches, including:
 
-Statistical modelling and ecological inference
+-Statistical modelling and ecological inference
 
-Generalized additive models and time-series analysis
+-Generalized additive models and time series analysis
 
-Ensemble machine learning and predictive modelling
+-Ensemble machine learning and predictive modelling
 
-Process-based environmental and hydrological modelling
+-Process-based environmental and hydrological modelling
 
-Extreme-value analysis and predictive uncertainty
+-Extreme value analysis and predictive uncertainty
 
-Geospatial analysis and spatial modelling
+-Geospatial analysis and spatial modelling
 
-Computer vision, image segmentation, and deep learning
+-Computer vision, image segmentation, and deep learning
 
-Automated ecological monitoring and classification
+-Automated ecological monitoring and classification
 
-Reproducible analytical workflows in R and Python
+-Reproducible analytical workflows in R and Python
 
 ## Research Projects
 
-Selected research repositories, publication-associated code, analytical workflows, and computational tools will be made available here as projects are documented and released.
+Selected research repositories, publication associated code, analytical workflows, and computational tools will be made available here as projects are documented and released.
 
 Research spans multiple freshwater environments and themes, including Great Lakes processes, watershed nutrient dynamics, aquatic ecosystem assessment, environmental and climate modelling, and computational approaches to ecological monitoring.
 
-Publications and Research Code
+## Publications and Research Code
 
 This profile serves as a central hub for research code, computational methods, and reproducible analytical workflows associated with scientific publications. Individual repositories will provide methodological documentation, data availability information, software requirements, and citation details wherever possible.
 
